@@ -1,7 +1,7 @@
  
 <div align="center">
-<h1>Hello! I'm Vivi. 👩🏼‍💻</h1>
-<h2>Mobile Developer.</h2>
+<h1>Hello! I'm Vivi. 👩🏻‍💻</h1>
+<h2>Mobile Developer — Flutter/ iOS </h2>
  </div>
 
 <div align="center">
@@ -18,8 +18,10 @@
  <br>
  <div align="center">
  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
- <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
+ <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+ <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+ <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+
 
  </div>
  <br>
