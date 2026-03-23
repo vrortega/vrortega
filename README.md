@@ -1,10 +1,14 @@
  
 <div align="center">
 <h1>Hello! I'm Vivi. 👩🏼‍💻</h1>
-<h2>iOS Developer @ Max Milhas</h2>
+<h2>Mobile Developer.</h2>
  </div>
 
-![](vivigif.gif)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/71c3c9dc-0d84-4e1b-a7b6-c75c51163e4c" width="900">
+ </div>
+ <br>
+ 
 
  <div align="center">
 ‧₊˚🖇️✩ ₊˚🎧⊹♡‧₊˚⌨️ ₊ ♫ 🌐⭑˚👾‧₊˚
