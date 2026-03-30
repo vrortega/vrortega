@@ -1,8 +1,11 @@
- 
 <div align="center">
 <h1>Hello! I'm Vivi. 👩🏻‍💻</h1>
-<h2>Mobile Developer — Flutter/ iOS </h2>
- </div>
+<h2>Mobile Developer — Flutter/ iOS</h2>
+<p>
+Mobile developer living cyberfeminism through code, always learning new languages and creating new projects.<br>
+Occasionally building games for fun.
+</p>
+</div>
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/71c3c9dc-0d84-4e1b-a7b6-c75c51163e4c" width="900">
